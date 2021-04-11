@@ -1,0 +1,16 @@
+{
+  "name": "entrega-bonus-1",
+  "version": "1.0.1",
+  "description": "Bonus Primera Entrega",
+  "main": "principal.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diana Heredia dianaheredia001@gmail.com",
+  "license": "ISC"
+}

@@ -1,0 +1,2 @@
+#Primera entrega, lenguajes para la web III. Diana Carolina Heredia Castillo El archivo a ejecutar es principal.js Para ingresar los datos escribir "inscribir" Los alias de los datos a ingresar son: ID: i Nombre: n Cédula: c
+Para visualizar los datos ingresados ingresar a localhost:3000 desde el navegador.
